@@ -1,0 +1,77 @@
+[
+  {
+    "skillLevel":"Easy",
+    "Questions": [
+      {
+        "question": "Javascript is an _______ language?",
+        "options": ["Object-Oriented","Object-Based"],
+        "correctIndex": 0
+      },
+      {
+        "question": "Which of the following keywords is used to define a variable in Javascript?",
+        "options": ["var", "char"],
+        "correctIndex": 0
+      },
+      {
+        "question": "Which of the following methods is used to access HTML elements using Javascript?",
+        "options": ["getElementbyId()", "getTag()"],
+        "correctIndex": 0
+      },
+      {
+        "question": "How can a datatype be declared to be a constant type?",
+        "options": ["constant", "const"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "skillLevel":"Medium",
+    "Questions":[
+      {
+        "question": " What keyword is used to check whether a given property is valid or not?",
+        "options": ["in","is in"],
+        "correctIndex": 0
+      },
+      {
+        "question": " What is the use of the <noscript> tag in Javascript??",
+        "options": ["The contents are displayed by non-JS-based browsers","clears all the cookies and cache"],
+        "correctIndex": 0
+      },
+      {
+        "question": "When an operator’s value is NULL, the typeof returned by the unary operator is:",
+        "options": ["Boolean","Object"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the ‘toLocateString()’ method do in JS?",
+        "options": ["Returns a parsed string","Returns a localized string representation of an object"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "skillLevel":"Hard",
+    "Questions":[
+      {
+        "question": "The process in which an object or data structure is translated into a format suitable for transferral over a network, or storage is called?",
+        "options": ["Object Serialization", "Object Encapsulation"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which function is used to serialize an object into a JSON string in Javascript?",
+        "options": ["stingify()", "parse()"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which of the following are closures in Javascript?",
+        "options": ["Variables", "Elements"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What keyword is used to declare an asynchronous function in Javascript?",
+        "options": ["async", "await"],
+        "correctIndex": 1
+      }
+    ]
+  }
+]
